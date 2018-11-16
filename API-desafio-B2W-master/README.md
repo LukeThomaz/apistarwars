@@ -8,16 +8,24 @@ Spring Suite Tools 4 (Spring Boot),
 Banco de Dados MongoDB,
 Postman
 
+
+
 Obs: para executar a API foi utilizada a IDE Spring Tool Suite 4 (STS)
+
+
 
 
 
 Informações Importantes para uso da API:
 - Para utilizar a API é necessário configurar o servidor do MongoDB e iniciá-lo.
 
+
+
 Como o projeto foi feito no Linux, foi utilizado o link para configuração (Até o passo 2):
 
 https://www.digitalocean.com/community/tutorials/como-instalar-o-mongodb-no-ubuntu-16-04-pt
+
+
 
 Obs: Passo 3 não foi necessário.
 
@@ -26,6 +34,8 @@ Configuração application.properties do Spring:
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
 spring.data.mongodb.database=b2w
+
+
 
 
 EndPoints da API, realizados através do Postman e localhost via Mozila para comprovacão.
