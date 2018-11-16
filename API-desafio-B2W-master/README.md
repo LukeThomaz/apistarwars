@@ -3,10 +3,10 @@
 
 Para o Projeto foi utilizado:
 
-*Java 8
-*Spring Suite Tools 4 (Spring Boot)
-*Banco de Dados MongoDB
-*Postman
+Java 8, 
+Spring Suite Tools 4 (Spring Boot),
+Banco de Dados MongoDB,
+Postman
 
 Obs: para executar a API foi utilizada a IDE Spring Tool Suite 4 (STS)
 
